@@ -9,7 +9,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #f1f1f1;
+    background: #e5dddd;
 }
 
 .wrapper {
@@ -44,9 +44,9 @@ body {
 .wrapper .circle::before {
     content: '';
     position: absolute;
-    height: 30px;
-    width: 30px;
-    background: #ed0808;
+    height: 32px;
+    width: 32px;
+    background: #ff0000;
     border-radius: 50%;
 }
 
